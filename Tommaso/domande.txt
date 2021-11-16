@@ -1,0 +1,22 @@
+1) Di che tipo di rete si tratta?
+
+-Individuare il nodo più centrale (calcolo della closeness centrality):
+La closeness esprime il livello di centralità globale di un nodo. Un nodo è
+globalmente centrale se si trova a breve distanza da un gran numero di altri nodi. 
+
+-Calcolare indice di centralizzazione (non lo fa gephi):
+Per calcolare l’indice di centralizzazione di un grafo occorre prima calcolare le differenze fra i punteggi di centralità del punto più centrale e quelli di tutti gli altri punti. 
+Poi si calcola il rapporto tra la somma di queste differenze e la loro somma massima possibile.
+
+grafo a stella (tutti dipendono da un nodo) ha centralizzazione = 1
+grafo completo o a ruota (tutti allo stesso livello) ha centralizzazione = 0
+
+-K-core (?):
+Individua il nucleo dei nodi fortemente connessi (analisi delle reti di tipo centro-periferia)
+
+2) Differenze tra i vari anni
+
+3) Clusters?
+
+-Sottografi ad alta densità che non hanno nodi in comune tra loro	
+-Force atlas 2 su gephi per individuarli
