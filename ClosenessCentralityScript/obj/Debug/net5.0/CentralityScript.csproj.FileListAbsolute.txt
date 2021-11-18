@@ -1,0 +1,16 @@
+C:\Users\tommy\source\repos\ClosenessCentralityScript\bin\Debug\net5.0\CentralityScript.exe
+C:\Users\tommy\source\repos\ClosenessCentralityScript\bin\Debug\net5.0\CentralityScript.deps.json
+C:\Users\tommy\source\repos\ClosenessCentralityScript\bin\Debug\net5.0\CentralityScript.runtimeconfig.json
+C:\Users\tommy\source\repos\ClosenessCentralityScript\bin\Debug\net5.0\CentralityScript.runtimeconfig.dev.json
+C:\Users\tommy\source\repos\ClosenessCentralityScript\bin\Debug\net5.0\CentralityScript.dll
+C:\Users\tommy\source\repos\ClosenessCentralityScript\bin\Debug\net5.0\ref\CentralityScript.dll
+C:\Users\tommy\source\repos\ClosenessCentralityScript\bin\Debug\net5.0\CentralityScript.pdb
+C:\Users\tommy\source\repos\ClosenessCentralityScript\obj\Debug\net5.0\CentralityScript.csproj.AssemblyReference.cache
+C:\Users\tommy\source\repos\ClosenessCentralityScript\obj\Debug\net5.0\CentralityScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy\source\repos\ClosenessCentralityScript\obj\Debug\net5.0\CentralityScript.AssemblyInfoInputs.cache
+C:\Users\tommy\source\repos\ClosenessCentralityScript\obj\Debug\net5.0\CentralityScript.AssemblyInfo.cs
+C:\Users\tommy\source\repos\ClosenessCentralityScript\obj\Debug\net5.0\CentralityScript.csproj.CoreCompileInputs.cache
+C:\Users\tommy\source\repos\ClosenessCentralityScript\obj\Debug\net5.0\CentralityScript.dll
+C:\Users\tommy\source\repos\ClosenessCentralityScript\obj\Debug\net5.0\ref\CentralityScript.dll
+C:\Users\tommy\source\repos\ClosenessCentralityScript\obj\Debug\net5.0\CentralityScript.pdb
+C:\Users\tommy\source\repos\ClosenessCentralityScript\obj\Debug\net5.0\CentralityScript.genruntimeconfig.cache
