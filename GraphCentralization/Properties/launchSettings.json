@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GraphCentralization": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\tommy\\OneDrive\\Desktop\\data.csv"
+    }
+  }
+}

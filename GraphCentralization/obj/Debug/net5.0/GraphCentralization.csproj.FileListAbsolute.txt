@@ -1,0 +1,15 @@
+C:\Users\tommy\source\repos\GraphCentralization\bin\Debug\net5.0\GraphCentralization.exe
+C:\Users\tommy\source\repos\GraphCentralization\bin\Debug\net5.0\GraphCentralization.deps.json
+C:\Users\tommy\source\repos\GraphCentralization\bin\Debug\net5.0\GraphCentralization.runtimeconfig.json
+C:\Users\tommy\source\repos\GraphCentralization\bin\Debug\net5.0\GraphCentralization.runtimeconfig.dev.json
+C:\Users\tommy\source\repos\GraphCentralization\bin\Debug\net5.0\GraphCentralization.dll
+C:\Users\tommy\source\repos\GraphCentralization\bin\Debug\net5.0\ref\GraphCentralization.dll
+C:\Users\tommy\source\repos\GraphCentralization\bin\Debug\net5.0\GraphCentralization.pdb
+C:\Users\tommy\source\repos\GraphCentralization\obj\Debug\net5.0\GraphCentralization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy\source\repos\GraphCentralization\obj\Debug\net5.0\GraphCentralization.AssemblyInfoInputs.cache
+C:\Users\tommy\source\repos\GraphCentralization\obj\Debug\net5.0\GraphCentralization.AssemblyInfo.cs
+C:\Users\tommy\source\repos\GraphCentralization\obj\Debug\net5.0\GraphCentralization.csproj.CoreCompileInputs.cache
+C:\Users\tommy\source\repos\GraphCentralization\obj\Debug\net5.0\GraphCentralization.dll
+C:\Users\tommy\source\repos\GraphCentralization\obj\Debug\net5.0\ref\GraphCentralization.dll
+C:\Users\tommy\source\repos\GraphCentralization\obj\Debug\net5.0\GraphCentralization.pdb
+C:\Users\tommy\source\repos\GraphCentralization\obj\Debug\net5.0\GraphCentralization.genruntimeconfig.cache
