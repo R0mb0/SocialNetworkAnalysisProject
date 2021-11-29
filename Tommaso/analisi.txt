@@ -1,0 +1,48 @@
+2015: 
+
+Il grafo evidenzia una struttura centrale (CSM OSPEDALE AP) che assume il ruolo di
+coordinatore per l'intera rete di servizi.
+
+Il K-Core individua un gruppo di 6 nodi in stretta collaborazione, coordinati dal 
+nodo più centrale.
+
+Il valore della centralizzazione indica che il grafo non si avvicina ai modelli
+di grafo centralizzato (a stella) e grafo diffuso (a ruota).
+
+In conclusione la rete 2015 è organizzata intorno a un unico nucleo di strutture
+che collaborano tra loro; questo nucleo si sviluppa intorno alla struttura più 
+centrale. Le strutture più periferiche sono in relazione con uno o più nodi che costituiscono il nucleo, e più raramente in relazione tra loro => rete integrata (?)
+
+2017:
+
+Anche in questo caso la struttura più centrale è il CSM OSPEDALE AP, è evidente una
+centralità media dei nodi più alta, e ci sono meno differenza in termini di centralità tra i nodi, è inoltre aumentato il numero di archi (collaborazione tra
+le varie strutture).
+
+K-Core: Il grado massimo rimane 6, ci sono più strutture che fanno parte del nucleo
+centrale e la collaborazione tra queste strutture è aumentata.
+
+Centralizzazione: Il valore indica un' organizzazione che si avvicina a quella 
+diffusa.
+
+La rete è cresciuta sia in termini di vertici (nuove strutture) che di archi
+(più collaborazione tra le strutture), il livello medio di centralità è aumentato
+e la centralità dei nodi è più uniforme: l' organizzazione è cambiata avvicinandosi
+al modello di rete diffusa.
+
+2019:
+
+Cambia la struttura più centrale che adesso è CSM OSPEDALE SBT, rispetto al 2017
+rimane costante il numero di nodi, diminuisce il livello medio di centralità
+e aumenta la disparità tra il nucleo di nodi più centrali e le strutture più
+periferiche.
+
+K-Core: Aumenta sia il numero di nodi che ne fanno parte sia la collaborazione tra
+questi (Il grado massimo rimane costante a 6).
+
+Centralizzazione: Questa è la rete più centralizzata delle 3, pur mantenendo
+un valore di centralizzazione medio che non si avvicina al modello di grafo a stella.
+
+Nel 2019 la rete è tornata simile a quella del 2015, con un nucleo di strutture
+centrali che coordinano tutte le altre. Il nodo isolato della rete del 2017 è stato
+integrato nella rete che torna ad essere totalmente connessa.
