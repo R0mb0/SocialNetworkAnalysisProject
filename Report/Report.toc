@@ -1,5 +1,5 @@
-\babel@toc {italian}{}\relax 
-\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}
+\babel@toc {italian}{}
 \beamer@sectionintoc {1}{Presentazione}{3}{0}{1}
 \beamer@sectionintoc {2}{Operazioni Svolte}{4}{0}{2}
 \beamer@sectionintoc {3}{Anno 2015}{5}{0}{3}

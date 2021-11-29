@@ -6,6 +6,31 @@
 \usepackage[T1]{fontenc}
 \usepackage{graphicx} 
 
+
+%==========================Set the foot line========================================================
+%-> Set the foot line.
+\makeatletter
+\setbeamertemplate{footline}
+{
+  \leavevmode%
+\hbox{%
+	\begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+		\usebeamerfont{author in head/foot}\insertshortauthor\expandafter\ifblank\expandafter{\beamer@shortinstitute}{}{~(\insertshortinstitute)}
+	\end{beamercolorbox}%
+	\begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+		\usebeamerfont{title in head/foot}\insertshortsubtitle%\insertshorttitle
+	\end{beamercolorbox}%
+	\begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
+		\usebeamerfont{date in head/foot}\insertshortdate{}\hspace*{2em}
+		\usebeamertemplate{page number in head/foot}\hspace*{2ex} 
+	\end{beamercolorbox}
+}%
+\vskip0pt%
+}
+\makeatother
+
+
+
 \title{Analisi della struttura sanitaria della provincia di Ascoli Piceno} 
 \author{Enrico Ferretti \\ 
 	Tommaso Cicco\\
@@ -15,17 +40,17 @@
 \logo{\includegraphics[width=15mm]{Uni}}
 
 
-\usetheme{AnnArbor} 
+%\usetheme{AnnArbor}
+\usetheme{Madrid} 
 %\useoutertheme[right]{sidebar} 
 \setbeamercovered{dynamic}
 
 %=========================================== Starting Document=====================================
 \begin{document}
 
-
 %Prima slide (Copertina)
 	\begin{frame} 
-		\maketitle 
+		\maketitle 		
 	\end{frame}
 
 	\begin{frame} 
