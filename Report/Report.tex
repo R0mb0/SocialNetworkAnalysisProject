@@ -5,6 +5,7 @@
 \usepackage[latin1]{inputenc} 
 \usepackage[T1]{fontenc}
 \usepackage{graphicx} 
+\usetheme{Madrid} 
 
 
 %==========================Set the foot line========================================================
@@ -15,18 +16,18 @@
   \leavevmode%
 \hbox{%
 	\begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
-		\usebeamerfont{author in head/foot}\insertshortauthor\expandafter\ifblank\expandafter{\beamer@shortinstitute}{}{~(\insertshortinstitute)}
-	\end{beamercolorbox}%
-	\begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
-		\usebeamerfont{title in head/foot}\insertshortsubtitle%\insertshorttitle
-	\end{beamercolorbox}%
-	\begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
-		\usebeamerfont{date in head/foot}\insertshortdate{}\hspace*{2em}
-		\usebeamertemplate{page number in head/foot}\hspace*{2ex} 
-	\end{beamercolorbox}
+	\usebeamerfont{author in head/foot}\insertsection
+\end{beamercolorbox}%
+\begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+	\usebeamerfont{title in head/foot}\insertsubsection
+\end{beamercolorbox}%
+\begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
+	\usebeamerfont{date in head/foot}\insertshortdate{}\hspace*{2em}
+	\insertframenumber{} / \inserttotalframenumber\hspace*{2ex} 
+\end{beamercolorbox}}%
 }%
 \vskip0pt%
-}
+
 \makeatother
 
 
@@ -41,7 +42,7 @@
 
 
 %\usetheme{AnnArbor}
-\usetheme{Madrid} 
+
 %\useoutertheme[right]{sidebar} 
 \setbeamercovered{dynamic}
 
@@ -49,6 +50,9 @@
 \begin{document}
 
 %Prima slide (Copertina)
+\section{Test Section One}
+\subsection{Test Subsection One One}
+
 	\begin{frame} 
 		\maketitle 		
 	\end{frame}
