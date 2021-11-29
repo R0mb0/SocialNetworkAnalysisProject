@@ -1,6 +1,6 @@
 1) Di che tipo di rete si tratta?
 
--Individuare il nodo più centrale (calcolo della closeness centrality):
+-Individuare il nodo più cetnrale (calcolo della closeness centrality):
 La closeness esprime il livello di centralità globale di un nodo. Un nodo è
 globalmente centrale se si trova a breve distanza da un gran numero di altri nodi. 
 
