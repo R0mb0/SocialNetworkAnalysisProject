@@ -1,4 +1,0 @@
--> GitHub Desktop: https://desktop.github.com/
--> LibreOffice: https://it.libreoffice.org/download/download/
--> MikTec: https://miktex.org/download
--> TextStudio: https://www.texstudio.org/
